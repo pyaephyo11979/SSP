@@ -1,0 +1,18 @@
+/* #nav-bar{
+    z-index:2;
+}
+#search-bar{
+    z-index:1;
+} */
+.item{
+    width:300px;
+    display: flexbox;
+}
+.p-dis{
+    font-size: 12px;
+    color: black;
+    margin-top: 5px;
+    width:fit-content;
+    height:50px;
+    overflow: hidden;
+}
